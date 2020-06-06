@@ -1,2 +1,2 @@
 # solidity-Begginer-programs
-these are my begginers program for solidity program 
+these are my begginers program for solidity programming language for blockchain
